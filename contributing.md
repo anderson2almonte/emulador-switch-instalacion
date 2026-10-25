@@ -160,3 +160,5 @@ cinco minutos.
 ---
 
 *Emulador de Switch · Actualizado 2026-10-25 · Compartido bajo licencia MIT*
+
+<!-- updated 2026-10-25 -->
